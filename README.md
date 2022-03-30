@@ -1,5 +1,9 @@
-- 👋 Hi, I’m @vadimbvn
-<!---
-vadimbvn/vadimbvn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Hi there 👋
+
+#### I'm a Frontend Developer working in Moscow, Russia.
+
+##### BIO
+
+- ⚙️ I use daily: `.js`, `.html`, `.css`
+- 📫 Reach me: [t.me/vadimbvn](https://t.me/Vadim_bvn)
+- ⚽ about me: I love football
